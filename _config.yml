@@ -1,0 +1,14 @@
+layout_spectrum: 0.3128162
+color:
+  saturation: 0.8973405
+  lightness: 0.7103734
+  brandStrength: 0.215009
+  rhythmicContrast: 0.8141267
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.560867
+name: shift/7 - 1
